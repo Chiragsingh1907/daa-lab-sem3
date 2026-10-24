@@ -8,16 +8,16 @@ The codebase is organized by experiment number. Each directory contains the sour
 
 ## Course Plan Delivery
 
-*   **Experiment 1:** Implement the iterative and recursive binary search tree and compare their performance[cite: 2].
-*   **Experiment 2:** Implement divide and conquer based merge sort and quick sort algorithm and compare their performance for the same set of elements[cite: 2].
-*   **Experiment 3:** Compare the performance of Strassen method of matrix multiplication with traditional way of matrix multiplication[cite: 2].
-*   **Experiment 4:** Implement the activity selection problem to get a clear understanding of greedy approach[cite: 2].
-*   **Experiment 5:** Get a detailed insight of dynamic programming approach by the implementation of matrix chain multiplication problem and see the impact of parenthesis positioning on time requirements[cite: 2].
-*   **Experiment 6:** Implement the Dijkstra algorithm and Bellman Ford algorithm for the single source shortest path problem and compare their performance[cite: 2].
-*   **Experiment 7:** Through 0/1 Knapsack problem, analyze the greedy and dynamic programming approach for the same dataset[cite: 2].
-*   **Experiment 8:** Implement the sum of subset problem and the n-Queens problem[cite: 2].
-*   **Experiment 9:** Compare the backtracking and branch-and-bound approach by the implementation of 0/1 Knapsack problem. Also compare the performance with dynamic programming approach[cite: 2].
-*   **Experiment 10:** Implement the Rabin-Karp, Knuth-Morris-Pratt, and naïve string matching algorithms and compare their performance[cite: 2].
+*   **Experiment 1:** Implement the iterative and recursive binary search tree and compare their performance.
+*   **Experiment 2:** Implement divide and conquer based merge sort and quick sort algorithm and compare their performance for the same set of elements.
+*   **Experiment 3:** Compare the performance of Strassen method of matrix multiplication with traditional way of matrix multiplication.
+*   **Experiment 4:** Implement the activity selection problem to get a clear understanding of greedy approach.
+*   **Experiment 5:** Get a detailed insight of dynamic programming approach by the implementation of matrix chain multiplication problem and see the impact of parenthesis positioning on time requirements.
+*   **Experiment 6:** Implement the Dijkstra algorithm and Bellman Ford algorithm for the single source shortest path problem and compare their performance.
+*   **Experiment 7:** Through 0/1 Knapsack problem, analyze the greedy and dynamic programming approach for the same dataset.
+*   **Experiment 8:** Implement the sum of subset problem and the n-Queens problem.
+*   **Experiment 9:** Compare the backtracking and branch-and-bound approach by the implementation of 0/1 Knapsack problem. Also compare the performance with dynamic programming approach.
+*   **Experiment 10:** Implement the Rabin-Karp, Knuth-Morris-Pratt, and naïve string matching algorithms and compare their performance.
 
 ## Getting Started
 
